@@ -1,4 +1,4 @@
 # QR-code-Generator
 text to QR and image to QR generator
 <br>
-Author - Dilkhush
+Author - Chaitanya(Dilkhush)
